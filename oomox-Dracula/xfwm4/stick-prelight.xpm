@@ -4,7 +4,7 @@ static char * stick_toggled_prelight_xpm[] = {
 " 	c None",
 <<<<<<< HEAD
 ".	c #282a36",
-"+	c #363848 s active_color_1",
+"+	c #4e5168 s active_color_1",
 =======
 ".	c #444444",
 "+	c #f0544c s active_color_1",
